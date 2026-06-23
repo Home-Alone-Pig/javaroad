@@ -13,7 +13,7 @@ public class Main {
             System.out.println(cat1);
         }
 
-        System.out.println("End of app homalon pig");
+        System.out.println("End of app home alone pig");
     }
 
 }
