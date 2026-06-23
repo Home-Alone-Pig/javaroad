@@ -4,7 +4,7 @@ import utilities.StringJob;
 public class Main {
 
 
-    public static void main(String[] args) {
+    public static void main(String ...args) {
 
         try (StringJob stringJob = new StringJob()) {
             String someName = stringJob.createName();
@@ -13,7 +13,7 @@ public class Main {
             System.out.println(cat1);
         }
 
-        System.out.println("End of app");
+        System.out.println("End of app home alone pig");
     }
 
 }
